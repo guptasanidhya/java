@@ -1,0 +1,5 @@
+my sql connector ko jdk 1.8 me jaake jre me jaake lib folder me jaake ext folder me jaake sql connector paste kardo
+
+ya fir
+java me bahar wale jre 1.8 me jaake lib folder me jaake sql connector 
+paste kardo aur es file tak ka path environment variable me set kardo

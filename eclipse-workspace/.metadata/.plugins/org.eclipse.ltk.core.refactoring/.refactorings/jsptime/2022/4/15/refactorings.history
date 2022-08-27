@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;jspclock/src/main/webapp/index.jsp&apos; to &apos;indexclock.jsp&apos;" description="Rename resource &apos;index.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/index.jsp" name="indexclock.jsp" stamp="1649423903636" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;jspclock/src/main/webapp/indexclock.jsp&apos; to &apos;indextime.jsp&apos;" description="Rename resource &apos;indexclock.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/indexclock.jsp" name="indextime.jsp" stamp="1649425489352" updateReferences="true"/>
+</session>

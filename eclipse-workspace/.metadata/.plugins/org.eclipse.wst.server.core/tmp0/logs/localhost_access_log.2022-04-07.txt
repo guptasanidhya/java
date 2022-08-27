@@ -1,0 +1,12 @@
+127.0.0.1 - - [07/Apr/2022:08:26:51 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [07/Apr/2022:08:27:27 +0530] "GET /studentservlet/student-form.html HTTP/1.1" 200 263
+127.0.0.1 - - [07/Apr/2022:08:27:28 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [07/Apr/2022:08:27:31 +0530] "GET /studentservlet/studentservlet?name=hii HTTP/1.1" 200 60
+127.0.0.1 - - [07/Apr/2022:09:47:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:09:47:33 +0530] "GET /servletdemo/sanidhyademo.html HTTP/1.1" 200 313
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:09:47:34 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:09:47:43 +0530] "GET /servletdemo/sanidhyademo?name=Sanidhya+Gupta&password=sanidhyas HTTP/1.1" 200 99
+127.0.0.1 - - [07/Apr/2022:18:25:42 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:18:25:43 +0530] "GET /studentservlet/student-form.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:18:25:44 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:18:25:48 +0530] "GET /studentservlet/studentservlet?name=Sanidhya+Gupta HTTP/1.1" 200 71

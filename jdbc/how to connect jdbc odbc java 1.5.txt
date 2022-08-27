@@ -1,0 +1,11 @@
+1.sabse pehle microsoft access,sql server,mysql me ek database banao jese mene banaya Database1 name se
+2.fir search bar me jaake odbc likho waha click karo
+3.fir ADD par jaakar click karo 
+4.jo driver use kar rahe ho usko search karna add pr click karke jese mene microsoft access driver use kia (accdb) wala
+5.apne dns source ko name dena koshish karna database se asame ho ya lag bhi kar sakte hai no problem
+jese mene source name sanidhyadatabase rakha hai or database file ka name Database2 
+6.fir jis bhi drive me wo database hai waha jaake use select kar lena
+7.ok kar dena
+8.fir java ka wo program hai usme jaake  dns source file(sanidhyadatabase) ka name likh dena 
+9.fir run kardena java file ko 
+10.data upload ho jaega accesss me
