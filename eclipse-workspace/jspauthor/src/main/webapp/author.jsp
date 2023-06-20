@@ -14,7 +14,7 @@
 <form method="get">
 <input type="checkbox" name="author" value="Sanidhya">sanidhya
 <input type="checkbox" name="author" value="nitin">nitin
-<input type="checkbox" name="author" value="mohini">mohini
+<input type="checkbox" name="author" value="mohini">deepak
 <input type="submit" value="query">
 </form>
 
