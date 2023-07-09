@@ -10,19 +10,20 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        ApplicationContext context = new ClassPathXmlApplicationContext("config.xml");
+        ApplicationContext context = new ClassPathXmlApplicationContext("/com/springcore/config.xml");
         Student student1=(Student) context.getBean("student1");
         System.out.println(student1);
         
         //created using property in config file
         
-        Student student2=(Student) context.getBean("student2");
-        System.out.println(student2);
-//created using attributes
-        
-        
-        Student student3=(Student) context.getBean("student3");
-        System.out.println(student3); 
-    //created using pschema
-    }
+//        Student student2=(Student) context.getBean("student2");
+//        System.out.println(student2);
+////created using attributes
+//        
+//        
+//        Student student3=(Student) context.getBean("student3");
+//        System.out.println(student3); 
+//    //created using pschema
+//   
+        }
 }
